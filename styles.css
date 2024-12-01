@@ -1,0 +1,108 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    font-family: Arial, sans-serif;
+  }
+  
+  .static-box {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 30%; /* Puedes ajustar el ancho */
+    height: 100%;
+    background-color: #00704A; /* Color verde de Starbucks */
+    color: white;
+    padding: 20px;
+  }
+  
+  .static-box h1 {
+    margin-bottom: 20px;
+  }
+  
+  .static-box button {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    border: none;
+    background-color: white;
+    color: #00704A;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .static-box button:hover {
+    background-color: #f2f2f2;
+  }
+  
+  .scrollable-content {
+    margin-left: 30%; /* Igual al ancho de la caja estática */
+    padding: 20px;
+  }
+  
+  .scrollable-content h2 {
+    margin-bottom: 20px;
+  }
+  
+  .scrollable-content p {
+    line-height: 1.6;
+  }
+
+  {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    font-family: Arial, sans-serif;
+  }
+  
+  .static-box {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 30%; /* Puedes ajustar el ancho */
+    height: 100%;
+    background-color: #00704A; /* Color verde de Starbucks */
+    color: white;
+    padding: 20px;
+  }
+  
+  .static-box h1 {
+    margin-bottom: 20px;
+  }
+  
+  .static-box button {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    border: none;
+    background-color: white;
+    color: #00704A;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .static-box button:hover {
+    background-color: #f2f2f2;
+  }
+  
+  .scrollable-content {
+    margin-left: 30%; /* Igual al ancho de la caja estática */
+    padding: 20px;
+  }
+  
+  .scrollable-content h2 {
+    margin-bottom: 20px;
+  }
+  
+  .scrollable-content p {
+    line-height: 1.6;
+  }
+  
